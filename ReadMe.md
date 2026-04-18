@@ -15,3 +15,4 @@
 # Database Schema
 <img width="830" height="764" alt="image" src="https://github.com/user-attachments/assets/638685b5-5b5c-4cff-ac48-81dc09df2fa7" />
 "# AQUINO-FINALSS" 
+"a decentra;ozed-app" 
